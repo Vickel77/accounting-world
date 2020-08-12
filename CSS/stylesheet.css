@@ -7,19 +7,6 @@
 				overflow-x: hidden;
 				padding:0; margin: 0;
 				font-family:calibri; font-size:16px;
-				background:-webkit-linear-gradient(top,rgba(0,0,0,.95), 
-														rgba(17,17,17,1)
-														),
-							url(images/acc5.jpg);
-				background:-moz-linear-gradient(top,rgba(0,0,0,.6),
-														rgba(17,17,17,.9)
-														),
-							url(images/acc5.jpg);
-				background:linear-gradient(top,rgba(0,0,0,.6),
-														rgba(17,17,17,.9)
-														),
-							url(images/acc5.jpg);	
-				background-size:cover;
 				background-attachment:fixed;
 				background:#fbfbfb;
 			}
@@ -39,12 +26,8 @@
 					background:-webkit-linear-gradient(top,#001c35ef,
 					#001c35ef
 														),
-								url(images/acc4.jpg);
+								url(../images/acc4.jpg);
 					background:-moz-linear-gradient(top,rgba(0,0,0,.6),
-														rgba(17,17,17,.9)
-														),
-								url(images/acc4.jpg);
-					background:-ms-linear-gradient(top,rgba(0,0,0,.6),
 														rgba(17,17,17,.9)
 														),
 								url(images/acc4.jpg);
@@ -204,7 +187,7 @@
 				.grid h3, p, a {padding-left:5px;}
 				
 				.grid1,.grid2,.grid4,.grid5{background: #001c35ef;
-					background:-webkit-linear-gradient(#001c35ef,#001c35ef), url(images/acc.jpg);
+					background:-webkit-linear-gradient(#001c35ef,#001c35ef), url(../images/acc.jpg);
 											color:#fbfbfb;
 											height:150px;
 											opacity:.9;
@@ -417,7 +400,7 @@
 					width:100%;
 					background: -webkit-linear-gradient(top, #001c35ef, 
 					#001c35ef),
-								url(images/acc8.jpg);			
+								url(../images/acc8.jpg);			
 					background-attachment:fixed;
 					background-repeat:no-repeat;
 					background-size:100% 100%;
